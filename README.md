@@ -1,5 +1,5 @@
 # docker-elasticsearch-kuromoji-neologd
-elasticsearch(5.4.1) + kuromoji + neologd with disabled X-Pack security.
+elasticsearch(6.1.2) + kuromoji + neologd with disabled X-Pack security.
 
 ## Usage
 
